@@ -261,7 +261,7 @@ class ParserATNSimulator(ATNSimulator):
     )
 
     debug = False
-    trace_atn_sim = False
+    trace_atn_sim = True
     dfa_debug = False
     retry_debug = False
 
